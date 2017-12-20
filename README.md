@@ -1,0 +1,2 @@
+# kubernetes
+在kubernetes安装过程中需要在google中拉取镜像，以github和dokcer hub做跳板机获取
